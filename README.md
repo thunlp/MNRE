@@ -58,7 +58,7 @@ Cite
 
 If you use the code, please cite the following paper:
 
-[Lin et al., 2017] Yankai Lin, Shiqi Shen, Zhiyuan Liu, and Maosong Sun. Neural Relation Extraction with Multi-lingual Attention. In Proceedings of ACL.[[pdf]](http://thunlp.org/~lyk/publications/acl2017_mnre.pdf)
+[Lin et al., 2017] Yankai Lin, Zhiyuan Liu, and Maosong Sun. Neural Relation Extraction with Multi-lingual Attention. In Proceedings of ACL.[[pdf]](http://thunlp.org/~lyk/publications/acl2017_mnre.pdf)
 
 Reference
 ==========
