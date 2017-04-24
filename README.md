@@ -11,7 +11,7 @@ We provide the  dataset we used for the task relation extraction in  (https://pa
 
 Pre-Trained English Word Vectors are learned from New York Times Annotated Corpus (LDC Data LDC2008T19), which should be obtained from LDC (https://catalog.ldc.upenn.edu/LDC2008T19).
 
-Pre-Trained Chinese Word Vectors are learned from Chinese Baidu Baike.
+Pre-Trained Chinese Word Vectors are learned from Chinese Baidu Baike (https://baike.baidu.com/).
 
 To run our code, the dataset should be put in the folder data/ using the following format, containing six files
 
