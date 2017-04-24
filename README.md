@@ -9,7 +9,9 @@ Data
 
 We provide the  dataset we used for the task relation extraction in  (https://pan.baidu.com/s/1dF26l93). We preprocess the original data to make it satisfy the input format of our codes. 
 
-Pre-Trained Word Vectors are learned from New York Times Annotated Corpus (LDC Data LDC2008T19), which should be obtained from LDC (https://catalog.ldc.upenn.edu/LDC2008T19).
+Pre-Trained English Word Vectors are learned from New York Times Annotated Corpus (LDC Data LDC2008T19), which should be obtained from LDC (https://catalog.ldc.upenn.edu/LDC2008T19).
+
+Pre-Trained Chinese Word Vectors are learned from Chinese Baidu Baike.
 
 To run our code, the dataset should be put in the folder data/ using the following format, containing six files
 
@@ -23,7 +25,7 @@ To run our code, the dataset should be put in the folder data/ using the followi
 
 + relation2id.txt: all relations and corresponding ids, one per line.
 
-+ vec.bin: the pre-train word embedding file
++ vec_en.bin, vec_zh.bin: the pre-train word embedding file
 
 Codes
 ==========
